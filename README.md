@@ -6,7 +6,7 @@ A simple and interactive web application that converts text to speech in over 85
 
 The app is deployed on **Streamlit Cloud**. You can try it out here:
 
-[Text-to-Speech App](https://text2talk.streamlit.app/)
+[Text2Talk](https://text2talk.streamlit.app/)
 
 ## Features
 
